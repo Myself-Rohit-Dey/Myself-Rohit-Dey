@@ -1,5 +1,5 @@
 # Myself-Rohit-Dey
-![Rohit Dey's-cover](https://user-images.githubusercontent.com/52719271/113082778-b0db2180-91f8-11eb-81de-2542f6c20234.png)
+![Rohit Dey's-cover](./cover-page.png)
 
 ## 🧔 About Me
 
@@ -7,19 +7,17 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Searching.....**
+- 👯 I’m looking to collaborate on **🔃Searching.....**
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaagrav&show_icons=true&theme=dark)](https://github.com/Jaagrav)
+[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey)
 
 Here are some of my projects on Github that I am proud of:
 
-[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Codex&show_icons=true&theme=dark)](https://github.com/Jaagrav/CodeX)
-[![Xper](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Xper&show_icons=true&theme=dark)](https://github.com/Jaagrav/Xper)
-[![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
-[![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess)
+[![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
 
+<!--
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
@@ -50,10 +48,22 @@ Here are some of my projects on Github that I am proud of:
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
+-->
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaagrav/)
-[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xJaagrav)
-[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xjaagrav/)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaagrav)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dey-588591201/)
+[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roni_xtreeem/)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myself-Rohit-Dey)
+<!--[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xJaagrav)-->
+<!--
+<hr>
+## 🤝 Connect
+[![Twitter](./icons/twitter.svg)](https://twitter.com/__salil_naik__) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/rohit-dey-588591201/) &nbsp;&nbsp;&nbsp;
+[![Instagram](./icons/instagram.svg)](https://www.instagram.com/roni_xtreeem/) &nbsp;&nbsp;&nbsp;
+[![Email](./icons/email.svg)](mailto:myselfrohitdey@gmail.com)
+[![Medium](./icons/medium.svg)](https://medium.com/@salil.naik27) &nbsp;&nbsp;&nbsp;
+[![Dev](./icons/dev.svg)](https://dev.to/salilnaik) &nbsp;&nbsp;&nbsp;
+[![Codepen](./icons/codepen.svg)](https://codepen.io/salilnaik) &nbsp;&nbsp;&nbsp;
+-->
+
