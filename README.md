@@ -3,15 +3,16 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [CSS art gallary](https://github.com/salil-naik/css-art-gallary)
+- 🔭 I’m currently working on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo)
+<!--[CSS art gallary](https://github.com/salil-naik/css-art-gallary)-->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **🔃Searching.....**
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey)
+[![Rohit Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey)
 
 Here are some of my projects on Github that I am proud of:
 
