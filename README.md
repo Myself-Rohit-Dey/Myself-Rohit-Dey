@@ -69,9 +69,9 @@
 ## 🏆Github Profile stats
 <p align = "left">
   <a href="https://github.com/Myself-Rohit-Dey">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Myself-Rohit-Dey&layout=compact&show_icons=true&theme=blue-green&line_height=27" width="415px"></a>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Myself-Rohit-Dey&layout=compact&show_icons=true&theme=blue-green&line_height=27" width="400px"></a>
   <a href="https://github.com/Myself-Rohit-Dey">
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=Myself-Rohit-Dey&layout=compact&theme=blue-green&show_icons=true&line_height=27" width="440px"></a>
+  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=Myself-Rohit-Dey&layout=compact&theme=blue-green&show_icons=true&line_height=27" width="425px"></a>
 </p>
 <!--
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Myself-Rohit-Dey&theme=monokai&row=1&no-frame=true&no-bg=true)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
