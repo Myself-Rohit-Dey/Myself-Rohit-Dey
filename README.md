@@ -1,14 +1,20 @@
-# Myself-Rohit-Dey
+# Myself-Rohit-Dey <a href="https://linkedin.com/in/myselfrohitdey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="myselfrohitdey" height="30" width="40" /></a><a href="https://twitter.com/MyselfRohitDey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MyselfRohitDey" height="30" width="40" /></a><a href="https://www.codechef.com/users/myself_rohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="myself_rohit" height="30" width="40" /></a><a href="https://www.hackerrank.com/myselfrohitdey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="myselfrohitdey" height="30" width="40" /></a><!--<a href="https://dev.to/sagnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a><a href="https://kaggle.com/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sagnikmitra" height="30" width="40" /></a><a href="https://fb.com/sagnik.mitra.562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a><a href="https://instagram.com/artimkingas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artimkingas" height="30" width="40" /></a><a href="https://medium.com/@sagnikmitra123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sagnikmitra123" height="30" width="40" /></a><a href="https://codeforces.com/profile/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a><a href="https://www.hackerearth.com/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sagnikmitra" height="30" width="40" /></a>-->
+
+
 ![Rohit Dey's-cover](./cover-page.png)
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 🧔 About Me
 
 - 🔭 I’m currently working on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo)
 <!--[CSS art gallary](https://github.com/salil-naik/css-art-gallary)-->
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **DSA & Web Technologies**
 
-- 👯 I’m looking to collaborate on **🔃Searching.....**
+- 👯 I’m looking to collaborate on Open Source Projects
 
 ## ✍ My Work
 
@@ -18,11 +24,15 @@ Here are some of my projects on Github that I am proud of:
 
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
 
-<!--
+<summary>🏆Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Myself-Rohit-Dey&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaagrav&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myself-Rohit-Dey&layout=compact&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+<!--
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -52,10 +62,10 @@ Here are some of my projects on Github that I am proud of:
 -->
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dey-588591201/)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myselfrohitdey/)
 [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roni_xtreeem/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myself-Rohit-Dey)
-<!--[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xJaagrav)-->
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MyselfRohitDey)
 <!--
 <hr>
 ## 🤝 Connect
