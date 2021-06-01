@@ -9,7 +9,7 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo)
+- 🔭 I’m currently working on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo) & [Master PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo) under GSSoC'21
 <!--[CSS art gallary](https://github.com/salil-naik/css-art-gallary)-->
 
 - 🌱 I’m currently learning **DSA & Web Technologies**
@@ -24,14 +24,13 @@ Here are some of my projects on Github that I am proud of:
 
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Myself-Rohit-Dey&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
 
-<summary>🏆Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Myself-Rohit-Dey&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
 
 
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myself-Rohit-Dey&layout=compact&show_icons=true&theme=dark)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+
 <!--
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,6 +59,14 @@ Here are some of my projects on Github that I am proud of:
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 -->
+## 🏆Github Profile stats
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Myself-Rohit-Dey&theme=monokai&row=1&no-frame=true&no-bg=true)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+
+[![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Myself-Rohit-Dey&theme=dark&show_icons=true)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+
+[![Graph](https://activity-graph.herokuapp.com/graph?username=Myself-Rohit-Dey&theme=xcode)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+
 ## 🤝 Connect
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myselfrohitdey/)
