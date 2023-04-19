@@ -98,6 +98,7 @@ Here are some of my projects on Github that I am proud of:
 
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Myself-Rohit-Dey&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=aimage&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/aimage)
+[![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=3jsportfolio&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/3jsportfolio)
 
 ## 🤝 Connect <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30">
 
