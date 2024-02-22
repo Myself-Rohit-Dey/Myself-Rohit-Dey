@@ -16,7 +16,9 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo) & [Master PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo) under GSSoC'21
+- 💻 Currently Working on learning Full Stack technologies and building my carrer
+
+- 🔭 Worked on [Neo Algo](https://github.com/TesseractCoding/NeoAlgo) & [Master PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo) under GSSoC'21
 <!--[CSS art gallary](https://github.com/salil-naik/css-art-gallary)-->
 
 - 🌱 I’m currently learning **DSA & Web Technologies**
@@ -86,7 +88,7 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=Myself-Rohit-Dey&layout=compact&theme=monokai&row=1&no-frame=true&no-bg=true"/></a>
  </p> 
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=Myself-Rohit-Dey&theme=redical)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
+<!--[![Graph](https://activity-graph.herokuapp.com/graph?username=Myself-Rohit-Dey&theme=redical)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey) -->
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Myself-Rohit-Dey/count.svg" alt="Visitor Count" /></h2>
 
@@ -99,11 +101,12 @@ Here are some of my projects on Github that I am proud of:
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Myself-Rohit-Dey&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/Myself-Rohit-Dey)
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=aimage&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/aimage)
 [![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=3jsportfolio&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/3jsportfolio)
+[![Myself-Rohit-Dey](https://github-readme-stats.vercel.app/api/pin/?username=Myself-Rohit-Dey&repo=Train-Ticket-Management&show_icons=true&theme=blue-green)](https://github.com/Myself-Rohit-Dey/Train-Ticket-Management)
 
 ## 🤝 Connect <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30">
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myselfrohitdey/)
-[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roni_xtreeem/)
+[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myselfrohitdey/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myself-Rohit-Dey)
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MyselfRohitDey)
 <!--
